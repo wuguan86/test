@@ -1,3 +1,3 @@
 public  class test{
-  system.out.pringln("第一个gitss文件");
+  system.out.pringln("第一个gitss文件ss");
 }
