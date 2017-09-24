@@ -1,6 +1,6 @@
 public  class test{
 
-  system.out.pringln("第一个gitss文件wuguannew");
+  system.out.pringln("wuguanss");
 
 
 }
