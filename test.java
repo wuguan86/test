@@ -2,7 +2,7 @@ public  class test{
 
 
 
-  system.out.pringln("master");
+  system.out.pringln("masterxx");
 
 system.out.pringln("onebanch");
 }
