@@ -1,5 +1,5 @@
 public  class test{
-  system.out.pringln("第一个gitss文件masterone");
+  system.out.pringln("第一个gitss文件wuguan1");
 
 
 }
