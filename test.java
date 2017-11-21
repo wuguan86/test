@@ -7,6 +7,4 @@ public  class test{
 
 system.out.pringln("masterxx11");
 
-system.out.pringln("xin");
-
 }
